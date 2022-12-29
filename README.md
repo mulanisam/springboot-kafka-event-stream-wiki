@@ -1,2 +1,2 @@
 # springboot-kafka-event-stream-wiki
-Kafka in even-driven microservices architecture using SpringBoot.
+Kafka event-driven microservices architecture using SpringBoot.
